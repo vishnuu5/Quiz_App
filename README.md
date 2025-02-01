@@ -47,13 +47,13 @@ npm run dev
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-deployment-url.com)
+[View Live Demo](https://quiz-app-sigma-ecru.vercel.app/)
 
 ## 📸 Screenshots
 
 ## 🎥 Video Walkthrough
 
-[Watch the demo video]https://github.com/user-attachments/assets/902a86d2-e1c2-45dc-b68f-aa1be790de46
+[Watch the demo video](https://github.com/user-attachments/assets/902a86d2-e1c2-45dc-b68f-aa1be790de46)
 
 ## 🛠️ Technology Stack
 
