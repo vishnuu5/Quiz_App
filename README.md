@@ -2,7 +2,26 @@
 
 A dynamic web-based quiz application built with React, Vite, and Material-UI, featuring gamification elements and an intuitive user interface.
 
-![Quiz App Demo](/screenshots/quiz-app-demo.png)
+![Quiz App Demo]![Image](https://github.com/user-attachments/assets/87a61bfa-2feb-4bba-8cd9-7adce2eea8a4)
+
+## 🔧 Installation & Setup
+
+1. Clone the repository
+```bash
+git clone https://github.com/vishnuu5/Quiz_App.git
+cd quiz-app
+```
+
+# Run Project:
+
+install npm 
+```bash
+npm install
+```
+# Run the project;
+```bash
+npm run dev
+```
 
 ## 🌟 Features
 
@@ -32,28 +51,9 @@ A dynamic web-based quiz application built with React, Vite, and Material-UI, fe
 
 ## 📸 Screenshots
 
-### Start Screen
-![Start Screen](/screenshots/start-screen.png)
-- Welcoming interface with clear instructions
-- Start button to begin the quiz
-
-### Question Interface
-![Question Interface](/screenshots/question-interface.png)
-- Clear question display
-- Multiple choice answers
-- Progress indicator
-- Current question counter
-
-### Results Summary
-![Results Screen](/screenshots/results-screen.png)
-- Final score display
-- Performance feedback
-- Option to restart quiz
-- Achievement badges
-
 ## 🎥 Video Walkthrough
 
-[Watch the demo video](link-to-your-video)
+[Watch the demo video]https://github.com/user-attachments/assets/902a86d2-e1c2-45dc-b68f-aa1be790de46
 
 ## 🛠️ Technology Stack
 
@@ -69,9 +69,4 @@ A dynamic web-based quiz application built with React, Vite, and Material-UI, fe
 - Node.js (v14 or higher)
 - npm or yarn
 
-## 🔧 Installation & Setup
 
-1. Clone the repository
-```bash
-git clone https://github.com/your-username/quiz-app.git
-cd quiz-app
